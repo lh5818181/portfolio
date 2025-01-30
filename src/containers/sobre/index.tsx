@@ -1,7 +1,7 @@
-import React from "react"
-import Titulo from "../../components/titulo"
-import Paragrafo from "../../components/Paragrafo"
-import { GithubSecao } from "./styles"
+import React from 'react'
+import Titulo from '../../components/titulo'
+import Paragrafo from '../../components/Paragrafo'
+import { GithubSecao } from './styles'
 
 const Sobre = () => (
   <section>

@@ -1,8 +1,8 @@
-import React from "react"
-import Titulo from "../titulo"
-import Paragrafo from "../Paragrafo"
+import React from 'react'
+import Titulo from '../titulo'
+import Paragrafo from '../Paragrafo'
 
-import { Card, LinkBotao } from "./styles"
+import { Card, LinkBotao } from './styles'
 
 const Projeto = () => {
   return (

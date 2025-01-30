@@ -1,8 +1,8 @@
-import React from "react"
-import Titulo from "../../components/titulo"
-import Projeto from "../../components/projeto"
+import React from 'react'
+import Titulo from '../../components/titulo'
+import Projeto from '../../components/projeto'
 
-import { Lista } from "./styles"
+import { Lista } from './styles'
 
 const Projetos = () => (
   <section>
